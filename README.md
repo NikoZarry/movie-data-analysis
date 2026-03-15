@@ -22,9 +22,7 @@ Exploratory data analysis of movie datasets covering box office performance, rat
 | File | Description |
 |------|-------------|
 | `movies.csv` | Core movie metadata (title, genre, year, budget, revenue) |
-| `movieratings.xlsx` | Audience and critic ratings |
 | `US CPI.csv` | US Consumer Price Index for inflation adjustment |
-| `food_price_inflation.csv` | Supplementary inflation data |
 
 ## Project Structure
 
@@ -35,9 +33,7 @@ movie-data-analysis/
 │   └── movieGraph_matplot.py     # Matplotlib version of key charts
 ├── movies.html                   # Exported interactive Plotly chart
 ├── movies.csv
-├── movieratings.xlsx
 ├── US CPI.csv
-└── food_price_inflation.csv
 ```
 
 ## Requirements

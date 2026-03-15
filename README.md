@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-data-150458?logo=pandas)
+![Plotly](https://img.shields.io/badge/Plotly-interactive-3F4F75?logo=plotly)
+![Jupyter](https://img.shields.io/badge/Jupyter-notebook-F37626?logo=jupyter)
+![Status](https://img.shields.io/badge/status-complete-brightgreen)
+
 # Movie Data Analysis
 
 Exploratory data analysis of movie datasets covering box office performance, ratings, genre trends, and inflation-adjusted ROI. Built as a personal project to practice data cleaning, merging datasets, and visualization with Python.
